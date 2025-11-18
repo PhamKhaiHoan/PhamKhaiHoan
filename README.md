@@ -14,6 +14,7 @@
 
 ---
 
+<h2 align="center">💫About Me</h2>
 <div align="left">
 
   <p>I'm a student at <b>HCMUTE</b> majoring in Robotics & AI. I have a strong passion for bridging the gap between software and hardware. I love building modern web applications and exploring Machine Learning algorithms.</p>

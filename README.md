@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="height: 500px; border-radius: 15px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/PhamKhaiHoan/PhamKhaiHoan/main/AsE%20in.gif">
+  <img style="height: 400px; border-radius: 15px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/PhamKhaiHoan/PhamKhaiHoan/main/AsE%20in.gif">
 </p>
 <h3 align="center">
 

@@ -102,12 +102,26 @@
 ---
 
 <h2 align="center">📈 My GitHub Stats</h2>
+
 <div align="center">
-  <a href="http://www.github.com/PhamKhaiHoan"><img src="https://github-readme-stats.vercel.app/api?username=PhamKhaiHoan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="PhamKhaiHoan's GitHub stats" /></a>
-  <br/>
-  <a href="http://www.github.com/PhamKhaiHoan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PhamKhaiHoan&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  <br/>
-  <a href="https://github.com/PhamKhaiHoan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamKhaiHoan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="http://www.github.com/PhamKhaiHoan">
+        <img src="https://github-readme-stats.vercel.app/api?username=PhamKhaiHoan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+      </a>
+      <br /> <br />
+      <a href="http://www.github.com/PhamKhaiHoan">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhamKhaiHoan&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Commit Streak" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/PhamKhaiHoan">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamKhaiHoan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---

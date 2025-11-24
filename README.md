@@ -14,27 +14,25 @@
 
 ---
 
-<h2 align="center">💫About Me</h2>
+<h2 align="center">💫 About Me</h2>
 <div align="left">
 
   <p>I'm a student at <b>HCMUTE</b> majoring in Robotics & AI. I have a strong passion for bridging the gap between software and hardware. I love building modern web applications and exploring Machine Learning algorithms.</p>
 
-  - 🌍 I'm based in Ho Chi Minh City, Vietnam
+  <h2>
+      🖥️ See my portfolio at 
+      <a href="https://ase-intelligence.vercel.app">
+          <span style="font-size: 24px; font-weight: bold; color: #d73a49;">HERE!</span>
+      </a> 
+  </h2>
 
-
-  - 🖥️ See my portfolio at [HERE!](http://github.com/PhamKhaiHoan)
-
-    
-  - ✉️ You can contact me at [phamkhaihoan.workspace@gmail.com](mailto:phamkhaihoan.workspace@gmail.com)
-
-    
-  - 🧠 I'm currently learning Deep Learning, Computer Vision, ReactJS & Docker
-
-    
-  - 👥 I'm looking to collaborate on Open Source Projects, AI/Robotics Research, Web Development
-
-    
-  - 💬 Fun fact: I'm fluent in Python, JavaScript, and the language of the Rift. Main Yasuo, Master Yi, Vladimir. Don't worry, I always clear my minion waves before debugging! ⚔️
+  <ul style="list-style-type: none; padding: 0;">
+      <li>🌍 I'm based in Ho Chi Minh City, Vietnam</li>
+      <li>✉️ You can contact me at <a href="mailto:phamkhaihoan.workspace@gmail.com">phamkhaihoan.workspace@gmail.com</a></li>
+      <li>🧠 I'm currently learning Deep Learning, Computer Vision, ReactJS & Docker</li>
+      <li>👥 I'm looking to collaborate on Open Source Projects, AI/Robotics Research, Web Development</li>
+      <li>💬 <b>Fun fact:</b> I'm fluent in Python, JavaScript, and the language of the Rift. Main Yasuo, Master Yi, Vladimir. Don't worry, I always clear my minion waves before debugging! ⚔️</li>
+  </ul>
 
 </div>
 

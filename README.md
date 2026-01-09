@@ -1,22 +1,19 @@
 <p align="center">
   <img style="height: 400px; border-radius: 15px; margin-bottom: 20px;" src="https://raw.githubusercontent.com/PhamKhaiHoan/PhamKhaiHoan/main/AsE%20in.gif">
 </p>
+
 <h3 align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="40px"> Hi there, Welcome to AsE's profile!
+</h3>
 
 <div align="center">
-
-  <h1>Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50px">, Welcome to AsE's profile!</h1>
-  
-
-  <p><h3>Robotics & AI Student 🤖 | Full-stack Developer 💻 | Python Enthusiast 🐍</h3></p>
-
+  <h3>Robotics & AI Student 🤖 | Full-stack Developer 💻 | Python Enthusiast 🐍</h3>
 </div>
 
 ---
 
 <h2 align="center">💫 About Me</h2>
 <div align="left">
-
   <p>I'm a student at <b>HCMUTE</b> majoring in Robotics & AI. I have a strong passion for bridging the gap between software and hardware. I love building modern web applications and exploring Machine Learning algorithms.</p>
 
   <h2>
@@ -33,7 +30,6 @@
       <li>👥 I'm looking to collaborate on Open Source Projects, AI/Robotics Research, Web Development</li>
       <li>💬 <b>Fun fact:</b> I'm fluent in Python, JavaScript, and the language of the Rift. Main Yasuo, Master Yi, Vladimir. Don't worry, I always clear my minion waves before debugging! ⚔️</li>
   </ul>
-
 </div>
 
 ---
@@ -58,40 +54,42 @@
 <h2 align="center">📈 My GitHub Stats</h2>
 
 <div align="center">
-<table border="0">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="http://www.github.com/PhamKhaiHoan">
-        <img src="https://github-readme-stats.vercel.app/api?username=PhamKhaiHoan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
-      </a>
-      <br /> <br />
-      <a href="http://www.github.com/PhamKhaiHoan">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhamKhaiHoan&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Commit Streak" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/PhamKhaiHoan">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamKhaiHoan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/PhamKhaiHoan">
+    <img src="https://github-readme-stats.vercel.app/api?username=PhamKhaiHoan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true" height="180" alt="stats graph" />
+  </a>
+  <a href="https://github.com/PhamKhaiHoan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamKhaiHoan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" height="180" alt="top languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/PhamKhaiHoan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhamKhaiHoan&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180" alt="streak graph" />
+  </a>
 </div>
 
 ---
 
 <h2 align="center">🏆 Top Repositories</h2>
 <div align="center">
-  <a href="https://github.com/PhamKhaiHoan/Movie_Booking"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=Movie_Booking&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/PhamKhaiHoan/SAMAR"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=SAMAR&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="SAMAR" /></a>
+  <a href="https://github.com/PhamKhaiHoan/Movie_Booking">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=Movie_Booking&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Movie_Booking" />
+  </a>
+  <a href="https://github.com/PhamKhaiHoan/SAMAR">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=SAMAR&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="SAMAR" />
+  </a>
   <br/>
-  <a href="https://github.com/PhamKhaiHoan/Meipaly"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=Meipaly&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Meipaly" /></a>
-  <a href="https://github.com/PhamKhaiHoan/Astroship-Pro"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=Astroship-Pro&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Astroship-Pro" /></a>
-  </div>
+  <a href="https://github.com/PhamKhaiHoan/Meipaly">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=Meipaly&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Meipaly" />
+  </a>
+  <a href="https://github.com/PhamKhaiHoan/Astroship-Pro">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=Astroship-Pro&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Astroship-Pro" />
+  </a>
+</div>
 
 ---
 
-<h2 align="center">✍️Random Dev Quote</h2>
+<h2 align="center">✍️ Random Dev Quote</h2>
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)

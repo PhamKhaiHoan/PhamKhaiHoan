@@ -57,28 +57,63 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamKhaiHoan&theme=monokai" alt="profile details" />
 </div>
 <br>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=PhamKhaiHoan&theme=monokai" alt="top languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhamKhaiHoan&theme=monokai" alt="productive time" />
-</div>
 
 ---
 
 <h2 align="center">🏆 Top Repositories</h2>
+
 <div align="center">
-  <a href="https://github.com/PhamKhaiHoan/Movie_Booking">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=Movie_Booking&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Movie_Booking" />
-  </a>
-  <a href="https://github.com/PhamKhaiHoan/SAMAR">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=SAMAR&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="SAMAR" />
-  </a>
-  <br/>
-  <a href="https://github.com/PhamKhaiHoan/Meipaly">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=Meipaly&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Meipaly" />
-  </a>
-  <a href="https://github.com/PhamKhaiHoan/Astroship-Pro">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=PhamKhaiHoan&repo=Astroship-Pro&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" alt="Astroship-Pro" />
-  </a>
+<table border="0" width="100%">
+  <thead align="center">
+    <tr>
+        <th>Project Name</th>
+        <th>Description</th>
+        <th>Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td width="20%">
+            <a href="https://github.com/PhamKhaiHoan/Movie_Booking"><b>🎬 Movie_Booking</b></a>
+        </td>
+        <td>Cinema Booking System</td>
+        <td>
+            <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+            <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <td width="20%">
+            <a href="https://github.com/PhamKhaiHoan/SAMAR"><b>🚗 SAMAR</b></a>
+        </td>
+        <td>Vehicle Management Website</td>
+        <td>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+            <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <td width="20%">
+            <a href="https://github.com/PhamKhaiHoan/Meipaly"><b>🎨 Meipaly</b></a>
+        </td>
+        <td>Creative Agency Landing Page</td>
+        <td>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <td width="20%">
+            <a href="https://github.com/PhamKhaiHoan/Astroship-Pro"><b>🚀 Astroship-Pro</b></a>
+        </td>
+        <td>Modern Admin Dashboard</td>
+        <td>
+            <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white">
+            <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+        </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ---

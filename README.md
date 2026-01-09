@@ -54,18 +54,12 @@
 <h2 align="center">📈 My GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/PhamKhaiHoan">
-    <img src="https://github-readme-stats.vercel.app/api?username=PhamKhaiHoan&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true" height="180" alt="stats graph" />
-  </a>
-  <a href="https://github.com/PhamKhaiHoan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamKhaiHoan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" height="180" alt="top languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamKhaiHoan&theme=monokai" alt="profile details" />
 </div>
-
+<br>
 <div align="center">
-  <a href="https://github.com/PhamKhaiHoan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PhamKhaiHoan&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180" alt="streak graph" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=PhamKhaiHoan&theme=monokai" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhamKhaiHoan&theme=monokai" alt="productive time" />
 </div>
 
 ---
